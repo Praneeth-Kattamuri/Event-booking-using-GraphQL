@@ -1,1 +1,2 @@
-# event-booking
+# Event Booking Application with GraphQL and React
+Welcome to our Event Booking Application! This application is designed to provide a seamless experience for users to discover and book events. The primary focus of this application is on implementing APIs using GraphQL, ensuring efficient data retrieval and a smooth user experience. The frontend is kept minimal, leveraging the power of React for a responsive and intuitive interface.
